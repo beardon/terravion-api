@@ -1,0 +1,23 @@
+{
+  "name": "terravion-api",
+  "description": "Promise-driven accessor for the TerrAvion API",
+  "version": "0.0.1",
+  "keywords": [
+    "api",
+    "terravion"
+  ],
+  "homepage": "https://github.com/beardon/terravion-api",
+  "bugs": {
+    "url": "https://github.com/beardon/terravion-api/issues",
+    "email": "aaron.bean@beardon.com"
+  },
+  "author": {
+    "name": "Aaron Bean",
+    "email": "aaron.bean@beardon.com",
+    "url": "https://github.com/aaronbean"
+  },
+  "main": "./lib/terravion",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
